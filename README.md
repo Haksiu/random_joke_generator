@@ -1,6 +1,6 @@
 ## About Project
 - Title: Random Joke Generator
-- Description:I created this project using NextJS and TailwindCSS. Random Joke Generator using React hooks like useState and useEffect and my custom hook (useRandomJoke)
+- Description: I created this project using NextJS and TailwindCSS. Random Joke Generator using React hooks like useState and useEffect and my custom hook (useRandomJoke)
 
 ## Getting Started
 
